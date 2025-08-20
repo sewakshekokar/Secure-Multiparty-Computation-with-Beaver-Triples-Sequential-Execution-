@@ -51,7 +51,7 @@ This is achieved with **additive secret sharing** and **Beaver triples**:
 ---
 ## Running the Protocol
 
-The parties must be started in the following order to avoid connection issues:  
+Open 4 terminals and run the parties in the following order:
 
 1. **Start Party 0**  
    ```bash
